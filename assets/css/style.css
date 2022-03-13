@@ -157,6 +157,8 @@ header h1 {
 .secondary-border {
   border-color: #39a6b2;
 }
+
+/* STEPS SECTION */
 .steps {
   background: #fce138;
 }
@@ -164,17 +166,29 @@ header h1 {
 .step h3 {
   color: #024e76;
   font-size: 46px; 
+  flex: 1 30%;
+}
+.step-info {
+flex: 2 70%;
+display: flex;
+flex-wrap: wrap;
+align-items: center;
 }
 
-.stepp-text p {
+.step-text p {
   color: #39a6b2;
   font-size: 18px;
 }
+.step-text {
+  flex: 12;
+}
+
 .step-text h4 {
-  font-seize:26px;
+  font-size:26px;
   line-height: 1.5;
   color: #024e76;
 }
+
 .step {
   margin: 50px auto;
   padding-bottom: 50px;
@@ -185,8 +199,17 @@ header h1 {
   align-items: center;
   justify-content: space-between;
 }
-.trainers {
+
+.step-img {
+  flex: 1 12%;
+  margin-right: 20px;
 }
+
+.step-img img {
+  max-width: 100%;
+}
+
+
 .trainer {
   width: 900px;
   margin: 0 auto 30px auto;
