@@ -1,14 +1,14 @@
 # Run Buddy
 
 ## Purpose
-A website that offers fitness training services.
+A website that offers fitness training services with personal trainers and customized workout programs
 
 ## Built With
 * HTML
 * CSS
 
 ## Website
-https://lernantino.github.io/run-buddy/
+https://jessiferizzo.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by [your name]
+Made with ❤️ by Jessica and RunBuddy
